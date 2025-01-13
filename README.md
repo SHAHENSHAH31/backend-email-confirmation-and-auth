@@ -44,6 +44,9 @@ SMTP_PASSWORD=your_smtp_password
 SMTP_FROM=your_sender_email
 APP_URL=your_application_url or http://localhost:8000/api
 ```
+
+>>>>>>>>>>if you are using http://localhost:8000/api then you can test the confirmation link mail on the same device where this code is running otherwise you need to deployee this code
+
 # Gmail SMTP Setup Guide
 
 This guide explains how to set up and use Gmail's SMTP service for sending emails through your application.
